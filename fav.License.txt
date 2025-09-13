@@ -1,0 +1,3 @@
+License: https://gg-favnc.github.io/P/license
+
+All rights and distribution are governed by the license linked above.
